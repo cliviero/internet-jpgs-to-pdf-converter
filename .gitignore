@@ -1,0 +1,4 @@
+node_modules
+yarn.lock
+*.pdf
+package-lock.json
